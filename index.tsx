@@ -48,8 +48,9 @@ const messageCtxPatch: NavContextMenuPatchCallback = (children, { message, itemS
                     try {
                         let response = await fetch(mediaSrc);
                         messageContent = await response.blob();
-                    } catch {
+                    } catch (error) {
                         showToast("Failed to download file. See console", Toasts.Type.FAILURE);
+                        console.error(error);
                         return;
                     }
                     fileName = mediaSrc;
