@@ -24,7 +24,7 @@ See [Chibisafe/Chibisafe](https://github.com/chibisafe/chibisafe) for more infor
 ![Configuration](https://chibby.kutuptilkisi.dev/second-zsdVXbRSvOiz.PNG)
 
 ## Example
-![HowItWorks](https://chibby.kutuptilkisi.dev/1337038480651587636_Discord_0_Zx_J7g8_DSC-TE4Q7ylG4k4s.gif)
+![HowItWorks](https://chibby.kutuptilkisi.dev/example_sendtochibisafe-p4bU18HW71JT.gif)
 
 ### Note
 I am not an experienced web developer nor am i familiar with TS. I just did this plugin because i want to upload something to my server without downloading, navigating to website, uploading, copying url.
